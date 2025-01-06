@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [algoQA](https://algoshack.net/)
 
-- 🌱 I’m currently learning **Python and its frameworks & Libraries**
+- 🌱 I’m currently learning **New frameworks & Libraries**
 
 - 👯 I’m looking to collaborate on **Any Fullstack web Projects**
 
